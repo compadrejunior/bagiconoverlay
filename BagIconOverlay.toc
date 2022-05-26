@@ -1,0 +1,5 @@
+## Interface: 90200
+## Title: Bag Icon Overlay
+## Notes: Display an icon overlay for bag items
+## Author: Mr Crowlay
+## Version: 0.0.1
